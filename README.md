@@ -1,2 +1,2 @@
 # gdsc_study_session_g10
-GDSC study session first task 
+a place where gdsc study session
